@@ -1,0 +1,6 @@
+{
+  "name": "NeuroBot Vision",
+  "description": "An interactive, animated AI bot that looks at your pictures, evaluates them, and speaks directly to you in Russian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
